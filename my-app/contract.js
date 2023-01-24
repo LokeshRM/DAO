@@ -1,5 +1,5 @@
-export const dao_address = "0xF466A142dC91FBad3975fE218F7E54fE4beA20C5";
-export const nft_address = "0xb106e59e8Ee4CC3a989fFaf1c2C8ecf193F62e1A";
+export const dao_address = "0xb7C318A7b87b9c09c0D4292B1172A958c4Bf914a";
+export const nft_address = "0x5Bfd87426e30151166283da689DB87a2fB32927F";
 
 export const dao_abi = [
     {

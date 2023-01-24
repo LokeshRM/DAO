@@ -3,8 +3,8 @@ require("dotenv").config();
 module.exports = {
     solidity: "0.8.4",
     networks: {
-        ropsten: {
-            url: process.env.INFURA_ROPSTEN,
+        goerli: {
+            url: process.env.GOERLI,
             accounts: [process.env.PRIVATE_KEY],
         },
     },
